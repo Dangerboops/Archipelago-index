@@ -1,0 +1,6 @@
+name = "ff7"
+display_name = "Final Fantasy 7"
+display_url = "https://github.com/blazerwazey/FF7pelago/releases/download/v{{version}}/ff7.apworld"
+
+[versions]
+"0.0.5s" = {}
